@@ -1,15 +1,14 @@
-# My name
+# My name:
 Stasiukevich Aliaksei
 ===
-# Contacts 
+# Contacts:
 1. discord - zloy666#1919
 2. gitHub - zloyLexa666
-====
-# Skills
+===
+# Skills:
 1. JS 
 2. html
 3. css
-====
-# Education
+===
+# Education:
 _wayup online course_
-# 

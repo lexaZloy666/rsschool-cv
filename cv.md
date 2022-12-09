@@ -9,3 +9,5 @@ discord - zloy666#1919
 2. html
 3. css
 ====
+# Education
+_wayup online course_

@@ -1,2 +1,2 @@
 text for readme
-https://lexazloy666.github.io/rsschool-cv/
+https://lexazloy666.github.io/rsschool-cv/html

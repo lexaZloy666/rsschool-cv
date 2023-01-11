@@ -44,6 +44,15 @@ img {
   max-width: 100%;
   height: auto;
 }
+a {
+  transition: .3s ease;
+}
+button:hover{
+  color: #FFFFFF;
+  background: #E06733;
+  cursor: pointer;
+  transition: .5s ease;
+}
 /*header start*/
 .header {
   position: absolute;
@@ -94,7 +103,11 @@ img {
   text-decoration: none;
 }
 .orange_link {
-  color:orange;
+  color: #E06733;
+}
+.header_link:hover{
+  cursor: pointer;
+  color: #E06733;
 }
 /*welcome start*/
 .welcome_section {
@@ -233,6 +246,7 @@ img {
   font-size: 20px;
   line-height: 24px;
   color: #E06733;
+  background: #E3E1D5;
 }
 .servisec {
   padding-top:90px;
@@ -370,6 +384,7 @@ img {
   color: #E06733;
   border: 1px solid #E06733;
   border-radius: 5px;
+  background: #FFFFFF;
 }
 .leafs_prices{
   margin-top: 38px;
